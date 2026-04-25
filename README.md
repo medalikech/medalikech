@@ -101,8 +101,8 @@ me.say_hi()
 
 <div align="center">
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=medalikech&repo=YOUR_REPO_1&theme=radical&hide_border=true)](https://github.com/medalikech/YOUR_REPO_1)
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=medalikech&repo=YOUR_REPO_2&theme=radical&hide_border=true)](https://github.com/medalikech/YOUR_REPO_2)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=medalikech&repo=YOUR_REPO_1&theme=radical&hide_border=true)](https://github.com/medalikech/DataWarehouse_Project)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=medalikech&repo=YOUR_REPO_2&theme=radical&hide_border=true)](https://github.com/medalikech/WebSemantique_Project)
 
 </div>
 
