@@ -71,7 +71,7 @@ me.say_hi()
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=medalikech&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=medalikech&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=medalikech&theme=radical&hide_border=true" />
 
 
