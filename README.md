@@ -74,6 +74,7 @@ me.say_hi()
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=medalikech&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=medalikech&theme=radical&hide_border=true" />
 
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medalikech&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 
 </div>
